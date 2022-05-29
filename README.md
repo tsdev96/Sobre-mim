@@ -1,8 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css"/>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-
 
 <h1>Thiago Silva</h1>
 <div class="sobre"> 
@@ -14,7 +9,7 @@
 <div>
   <h2>Tecologias que tenho aprendido:</h2>
   
-  <img class="html" src="https://user-images.githubusercontent.com/53449883/170876174-477598ac-fa49-40a7-ad09-60618ecb4b53.png" width= 50px>
+  <img margin-left=10px src="https://user-images.githubusercontent.com/53449883/170876174-477598ac-fa49-40a7-ad09-60618ecb4b53.png" width= 50px>
   <img class="css" src="https://user-images.githubusercontent.com/53449883/170876176-2afc0105-84ab-4ef2-9503-92f04cd4e2dc.png" width= 50px>
   <img class="javascript" src="https://user-images.githubusercontent.com/53449883/170876173-b20a2bdc-40d2-4098-bccf-3b8073d2d941.png" width= 50px>
   <img class="python" src="https://user-images.githubusercontent.com/53449883/170876175-1c45a8ce-b92c-40df-846d-4dbf9018cf6d.png" width= 50px>
