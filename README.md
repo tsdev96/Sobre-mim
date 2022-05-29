@@ -1,3 +1,9 @@
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
+
 <h1>Thiago Silva</h1>
 <div class="sobre"> 
   <p>Tenho 25 anos natural de Ribeirão Preto - SP e residente na capital. Sou técnico em informática formado pelo Senac há 8 anos. Desde lá atuando em suporte e manutenção de PCs e redes simples. Agora realmente focado em ingressar de vez em programação.💞️</p>
