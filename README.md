@@ -2,8 +2,10 @@
 # "Гн¡αgσ S¡lvα
 
 <div> 
-  <p>Tenho 27 anos natural de Ribeirão Preto - SP e residente na capital. Sou técnico em informática formado pelo Senac há 10 anos. Desde lá atuando em suporte e manutenção de PCs e redes simples. Agora realmente focado em ingressar de vez em programação.💞️</p>
+  <p>Tenho 27 anos natural de Ribeirão Preto - SP e residente na capital. Sou técnico em informática formado pelo Senac há 10 anos. Desde lá atuando em suporte e manutenção de PCs e redes simples. Focado em ingressar em desenvolvimento/análise de dados.💞️</p>
   <p>Estou atualmente estudando Python e Django. Já tive contato com HTML, CSS e JavaScript.</p>
+	<p>Indo para o segundo ano de ADS pela faculdade Estácio</p>
+
 </div>
 
 ## Tecnologias que tenho aprendido:
