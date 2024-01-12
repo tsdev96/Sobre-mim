@@ -2,14 +2,13 @@
 # Thiago Silva
 
 <div> 
-  <p>Tenho 27 anos natural de Ribeirão Preto - SP e residente na capital. Técnico em informática formado e graduando em Análise e Desenvolvimento de Sistemas.
+  <p>Tenho 27 anos natural de Ribeirão Preto - SP e residente na capital. Técnico em informática formado Senac e graduando no 3 semestre em Análise e Desenvolvimento de Sistemas pela Estácio.
 	Trabalhando com suporte e manutenção e apaixonado por tecnologia e novos desafios.
 	Possuo perfil analítico e me incomodo com o que não é prático.
 	Gosto de me comunicar e procuro levar as coisas com um bom humor para tornar o ambiente leve.
 
 Focado no aprendizado de programação, sou aspirante a desenvolvedor back-end com Python e Django.💞️</p>
   <p>Já tive contato com HTML5, CSS, JavaScript e SQL.</p>
-	<p>Terceiro semestre pela faculdade Estácio de Sá</p>
 
 </div>
 
