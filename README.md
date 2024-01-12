@@ -1,5 +1,5 @@
 
-# "Гн¡αgσ S¡lvα
+# Thiago Silva
 
 <div> 
   <p>Tenho 27 anos natural de Ribeirão Preto - SP e residente na capital. Sou técnico em informática formado pelo Senac há 10 anos. Desde lá atuando em suporte e manutenção de PCs e redes simples. Focado em ingressar em desenvolvimento/análise de dados.💞️</p>
