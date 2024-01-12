@@ -23,10 +23,10 @@ Focado no aprendizado de programação, sou aspirante a desenvolvedor back-end c
 </div>
 
 <div>
-    	<a href="https://github.com/tsdev96/tsdev96">
+
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsdev96&layout=compact&langs_count=7&theme=blue-green"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsdev96&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
-    	</a>
+    	
 </div>
   
 
