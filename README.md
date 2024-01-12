@@ -34,8 +34,7 @@ Focado no aprendizado de programação, sou aspirante a desenvolvedor back-end c
 
 <div>
 	<a href="mailto:thiago.tcs96@gmail.com" target="_blank"><img width=48px src="https://user-images.githubusercontent.com/53449883/170886509-99992330-6269-43de-ad44-f73ceb6ea555.png"></a>
-	<a href="https://www.linkedin.com/in/thiago-silva-7b4961163" target="_blank"><img width=50px src="https://user-images.githubusercontent.com/53449883/170886511-a4db4e4d-9cc2-48a2-86b7-31e24345161b.png"></a>
-	<a href="https://www.instagram.com/thiago.tcs96"><img width=48px src="https://user-images.githubusercontent.com/53449883/170886614-503eed43-4ca8-4bcd-a781-c7f70d328f91.png"></a>
+	<a href="www.linkedin.com/in/thiagocristinosilva" target="_blank"><img width=50px src="https://user-images.githubusercontent.com/53449883/170886511-a4db4e4d-9cc2-48a2-86b7-31e24345161b.png"></a>
 
 </div>
 
